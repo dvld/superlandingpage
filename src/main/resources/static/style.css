@@ -1,0 +1,36 @@
+.nav-wrapper {
+  background: #333;
+}
+
+.page-footer {
+  background: #333;
+}
+
+main {
+  background: url(https://storage.needpix.com/rsynced_images/selling-3213725_1280.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+#form {
+  padding: 10px 20px;
+  background: #3339;
+  border-radius: 10px;
+}
+
+input {
+  color: #fff;
+}
+
+#label {
+  color: #fff;
+}
+
+a {
+  border-radius: 10px;
+}
+
+.btn {
+  border-radius: 10px;
+}
